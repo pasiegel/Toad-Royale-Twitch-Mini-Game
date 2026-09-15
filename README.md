@@ -6,10 +6,12 @@ increasingly dangerous themed stages one at a time - anyone who doesn't make
 it is eliminated, and the field narrows stage by stage until exactly one
 Champion remains. Stats persist between streams.
 
+➡️ **Application Demo:** (https://pasiegel.github.io/Toad-Royale-Twitch-Mini-Game/demo/)
+
+
 ![Splash screen](screenshots/splash.png)
 
-> Looking for design notes, bug postmortems, or test logs instead? See
-> [DEVELOPMENT.md](DEVELOPMENT.md).
+
 
 ## What's in this folder
 
